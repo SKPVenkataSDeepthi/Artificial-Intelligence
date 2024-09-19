@@ -115,7 +115,6 @@ Explore the Hugging Face Cookbook for practical guides and code examples on:
 - Natural Language Processing (NLP).
 - Transformers and their applications in text generation, translation, and classification.
 - Fine-tuning pretrained models on custom datasets.
-- Deployment of ML models in real-world applications.
 
 Visit [Hugging Face Cookbook](https://huggingface.co/learn/cookbook/index) for in-depth tutorials.
 
