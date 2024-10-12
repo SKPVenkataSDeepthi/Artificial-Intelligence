@@ -5,7 +5,7 @@
 
 Welcome to my Artificial Intelligence Repository! This repository serves as a collection of resources, notes, and projects from various AI and machine learning courses I am currently studying. The aim is to document my learning journey, with links to foundational courses, hands-on projects, and open-source AI tools.
 
-I will be continuously updating this repository with relevant files, code, and insights gained from these resources. You can follow along, use them for your own learning, or collaborate on related projects.
+I will be continuously updating this repository with relevant files, code, and insights gained from these resources. You can follow along, use them for your own learning.
 
 ## Learning Resources
 
@@ -46,39 +46,21 @@ The Open-Source AI Cookbook provides practical examples and notebooks for buildi
   - Machine learning tasks with open-source tools  
   - Building and training models with Hugging Face libraries  
 
-## How to Use This Repository
-
-- **Explore the Resources**: Each course or resource mentioned above will be linked to related project files, code snippets, and notes as I progress through the material.
-- **Follow Along**: You can clone this repository and try the exercises and projects yourself. The notes and code will be structured to make it easier for you to understand and implement.
-- **Contribute**: If you're working on similar topics or have suggestions to improve the projects, feel free to contribute by submitting issues, pull requests, or providing feedback.
-
 ## Project Structure
 
 The repository will be organized into different folders and files based on each course:
 
-- `/fundamentals_of_ai/` - Files related to the Fundamentals of AI course  
-- `/generative_ai/` - Files and projects from the Generative AI course  
-- `/embeddable_ai/` - Projects and applications that embed AI into real-world applications  
-- `/pytorch/` - PyTorch-based projects and tutorials  
-- `/ai_cookbook/` - Notebooks and practical code from the Open-Source AI Cookbook  
-
-## Contributing
-
-Feel free to fork the repository and make contributions. You can:
-- Report issues or bugs
-- Suggest improvements
-- Submit pull requests
-
-## License
-
-This repository is a personal project and does not include any proprietary or copyrighted content. The materials referenced in this repository may be subject to the respective licenses of the courses or platforms hosting them.
+- `/Fundamentals of AI/` - Files related to the Fundamentals of AI course  
+- `/Generative AI/` - Files and projects from the Generative AI course  
+- `/Embeddable AI/` - Projects and applications that embed AI into real-world applications  
+- `/Learn AI Hands-On - PyTorch/` - PyTorch-based projects and tutorials  
+- `/AI Cookbok/` - Notebooks and practical code from the Open-Source AI Cookbook  
 
 ---
 
-Stay tuned as I continue to update this repository with new learnings and projects. If you have any questions or want to collaborate on AI projects, feel free to reach out!
+Stay tuned as I continue to update this repository with new learnings and projects.
 
 Happy learning!
-
 
 ---
 
