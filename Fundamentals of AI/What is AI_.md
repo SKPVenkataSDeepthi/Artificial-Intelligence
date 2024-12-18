@@ -12,5 +12,5 @@ AI isn’t all about taking over jobs and replacing people, though. Sure, some p
 # 4. AI as an Algorithmic Machine
 AI is a tool that uses complex mathematical formulas to solve problems. These formulas, called algorithms, are like a recipe for solving problems. But instead of following a recipe to bake a cake, these algorithms help the computer look at a bunch of data and figure out hidden patterns—things that might not be obvious at first glance.For example, let’s say we give an AI program a bunch of pictures of fruit. At first, it doesn't know which fruit is which, but using algorithms, it starts recognizing patterns: round fruits with a red color might be apples, and long, yellow fruits might be bananas. Eventually, it can identify all sorts of fruits even if it’s never seen a particular one before.
 
-# 5. Machine Learning—The Special Sauce
+# 5. Machine Learning——The Core of AI
 Some people like to think AI is all about "thinking like a human," but the truth is, the magic behind AI is actually machine learning. Machine learning is just a fancy way of saying, “Hey, instead of us telling the computer exactly what to do,let it figure things out on its own.” The cool part is, the more data or clues the computer gets, the smarter it becomes without needing humans to keep telling it what to do.
