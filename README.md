@@ -46,11 +46,9 @@ The Open-Source AI Cookbook provides practical examples and notebooks for buildi
   - Machine learning tasks with open-source tools  
   - Building and training models with Hugging Face libraries
  
-### 6. [Generative AI with Diffusion Models](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-FX-08+V1)
-Learn generative AI techniques using diffusion models for content creation. This course covers implementing diffusion models and their practical applications.
+### 6. [The Big Book of Generative AI by Databricks]
+This folder contains my learnings and notes from **"The Big Book of Generative AI"** by Databricks, covering stages of deploying production-quality GenAI applications, including prompt engineering, fine-tuning, RAG, and LLM evaluation. If you're looking for the original book, it is available in the **Ref. Books** folder of this repository.
 
-### 7. [Getting Started with AI on Jetson Nano](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2)
-This course introduces AI deployment on the NVIDIA Jetson Nano platform, focusing on practical edge AI applications and optimization techniques.
 
 ## Project Structure
 
@@ -61,8 +59,7 @@ The repository will be organized into different folders and files based on each 
 - `/Embeddable AI/` - Projects and applications that embed AI into real-world applications  
 - `/Learn AI Hands-On - PyTorch/` - PyTorch-based projects and tutorials  
 - `/AI Cookbok/` - Notebooks and practical code from the Open-Source AI Cookbook
-- `/Generative AI with Diffusion Models/` -Files and projects related to the Generative AI course.
-- `/AI on Jetson Nano/` -Projects and tutorials for deploying AI on NVIDIA Jetson Nano. 
+- - `/The Big Book of Generative AI/` - Notebooks and practical code from the databricks book. 
 
 ---
 
