@@ -46,7 +46,7 @@ The Open-Source AI Cookbook provides practical examples and notebooks for buildi
   - Machine learning tasks with open-source tools  
   - Building and training models with Hugging Face libraries
  
-### 6. [The Big Book of Generative AI by Databricks]
+### 6. The Big Book of Generative AI by Databricks
 This folder contains my learnings and notes from **"The Big Book of Generative AI"** by Databricks, covering stages of deploying production-quality GenAI applications, including prompt engineering, fine-tuning, RAG, and LLM evaluation. If you're looking for the original book, it is available in the **Ref. Books** folder of this repository.
 
 
