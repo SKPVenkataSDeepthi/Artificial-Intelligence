@@ -58,7 +58,7 @@ The repository will be organized into different folders and files based on each 
 - `/Generative AI/` - Files and projects from the Generative AI course  
 - `/Embeddable AI/` - Projects and applications that embed AI into real-world applications  
 - `/Learn AI Hands-On - PyTorch/` - PyTorch-based projects and tutorials  
-- `/AI Cookbok/` - Notebooks and practical code from the Open-Source AI Cookbook
+- `/AI Cookbook/` - Notebooks and practical code from the Open-Source AI Cookbook
 - `/The Big Book of Generative AI/` - Notebooks and practical code from the databricks book. 
 
 ---
