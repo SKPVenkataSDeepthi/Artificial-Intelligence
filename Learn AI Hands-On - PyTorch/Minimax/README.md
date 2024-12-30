@@ -1,0 +1,46 @@
+Imagine that we're playing a simple game like Tic-Tac-Toe. The idea behind minimax and game trees is all about looking ahead in the game to make the smartest possible move.
+
+# What is Minimax?
+Minimax is a way of thinking two steps (or more) ahead to figure out your best move. It works by imagining all the possible moves you and your opponent could make and choosing the one that gives you the best chance to win while assuming your opponent is also playing their best.
+
+Think of it like playing a game of chess in your mind before actually moving any pieces.
+
+# What are Game Trees?
+A game tree is like a “map” of all the possible moves you and your opponent could make. Each "branch" of the tree represents a different move, and each "leaf" at the end of the branch represents a final outcome: you win, you lose, or it's a tie.
+
+
+# How Does Minimax Use the Game Tree?
+Imagine you're "X" in a game of Tic-Tac-Toe, and it's your turn. Here’s how minimax helps us decide what to do:
+
+Step 1: Imagine Your Move
+
+Let’s say you decide to place your "X" in one of the empty squares. This creates a new game state. Each possible move creates a new branch in the tree.
+
+Step 2: Imagine Your Opponent’s Move
+
+Now, imagine your opponent ("O") sees what you did and tries to counter your move. They’ll choose the best spot to put their "O" to try to win or block you.
+
+Step 3: Keep Thinking Ahead
+
+You then imagine your next move and how your opponent would respond again. This process repeats until the game ends.
+
+# What are Leaves in the Game Tree?
+A leaf is a point where the game is over. There are no more moves left because:
+
+> Someone has won (e.g., "X" has three in a row).
+
+> It's a tie (all squares are filled, but no one won).
+
+> Even if there are empty squares left on the board, if someone has already won or the game is a tie, you don’t need to look ahead anymore. That’s why those game states are called “leaves.”
+
+
+# Why Does Minimax Work?
+Minimax assumes that both players are smart and always make the best move. By looking ahead at all possible outcomes, it chooses the move that gives you the best result, even if your opponent plays perfectly.
+
+Example:
+
+Minimax would consider every possible way the game could play out and decide whether placing "X" in the bottom-left corner is better than other options.
+
+* In short minimax is like playing the entire game in your head before making a move. It helps you choose the smartest option by imagining every possibility, assuming your opponent is just as clever as you. The “leaves” in the game tree are where the game ends—no more moves to think about!
+
+![image.png](attachment:39835308-fca9-4113-806b-ac1d4922aa1f.png)
