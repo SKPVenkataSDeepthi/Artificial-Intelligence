@@ -43,4 +43,5 @@ Minimax would consider every possible way the game could play out and decide whe
 
 * In short minimax is like playing the entire game in your head before making a move. It helps you choose the smartest option by imagining every possibility, assuming your opponent is just as clever as you. The “leaves” in the game tree are where the game ends—no more moves to think about!
 
-![image.png](attachment:39835308-fca9-4113-806b-ac1d4922aa1f.png)
+![Minimax Board](https://github.com/user-attachments/assets/9581de33-4e33-437e-bc0e-c111deb1c51d)
+
