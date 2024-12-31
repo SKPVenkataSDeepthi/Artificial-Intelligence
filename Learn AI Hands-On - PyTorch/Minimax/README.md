@@ -70,3 +70,14 @@ In this code, we implement the minimax algorithm to determine the best move for 
 # Play.py
 In this code, we implemented a Tic-Tac-Toe game where two AI players (X and O) play against each other using the Minimax algorithm. The minimax() function evaluates all possible moves and selects the optimal one for each player. The game loop alternates between the two AI players, making moves based on the results from the minimax() function. The board is printed after each move to show the current game state.
 
+# Reference:
+This project implements the Minimax algorithm to create an unbeatable AI for Tic-Tac-Toe. It uses game trees to evaluate all possible moves and outcomes, enabling optimal decision-making for both players. The AI alternates between maximizing and minimizing strategies to ensure the best possible result.
+
+Developed using resources from [Codecademy](https://www.codecademy.com).
+
+
+
+
+
+
+
