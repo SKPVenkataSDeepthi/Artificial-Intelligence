@@ -60,3 +60,13 @@ In this code, we first created a reference to my_board by assigning new_board = 
 
 # Minimax.py
 In this code, we defined the minimax() function to evaluate possible moves for a Tic-Tac-Toe game. We loop through all available moves, create a deep copy of the current board for each move, and apply the move using select_space(). The symbol used for the move is based on whether the player is maximizing ("X") or minimizing ("O"). After making the move, we return the new board. The function is called with x_winning as the input board and the maximizing player (True).
+
+# Recursion.py
+In this code, we implemented the minimax algorithm for a Tic-Tac-Toe game. The minimax() function recursively evaluates all possible moves, determining the best move for the current player. It uses a base case to return a value when the game is over, and recursively explores future moves, maximizing for "X" and minimizing for "O". We tested the function on three boards (x_winning, o_winning, and new_game) to evaluate the best possible move for "X". The results indicate whether "X" wins, "O" wins, or if the game is a tie.
+
+# Improved_Minimax.py
+In this code, we implement the minimax algorithm to determine the best move for the player "X" (maximizing player) in a Tic-Tac-Toe game. The minimax function recursively evaluates all possible game states, considering both maximizing and minimizing players (X and O). It returns the best move and its corresponding value based on the current board state. We test the function on different game boards (x_winning, o_winning, and new_game) to see how the algorithm chooses the best move for "X" in each scenario.
+
+# Play.py
+In this code, we implemented a Tic-Tac-Toe game where two AI players (X and O) play against each other using the Minimax algorithm. The minimax() function evaluates all possible moves and selects the optimal one for each player. The game loop alternates between the two AI players, making moves based on the results from the minimax() function. The board is printed after each move to show the current game state.
+
