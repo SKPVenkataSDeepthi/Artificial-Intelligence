@@ -45,3 +45,18 @@ Minimax would consider every possible way the game could play out and decide whe
 
 ![Minimax Board](https://github.com/user-attachments/assets/9581de33-4e33-437e-bc0e-c111deb1c51d)
 
+
+# tic_tac_toe.py
+In the first code (tic_tac_toe.py), we set up a Tic-Tac-Toe game board and simulated moves for players "X" and "O" by selecting spaces on the board. We printed the board after each move, checked the available moves, and then checked if either "X" or "O" had won using the has_won() function.
+
+# Detecting_Tic-Tac-Toe_Leaves.py
+In the second part, we implemented functions to detect if the game is over (game_is_over()) and evaluate the board (evaluate_board()). The game_is_over() checks for a winner or a tie, and evaluate_board() returns the result based on the winner or a tie.
+
+# Evaluating Leaves
+In this scenario, the goal is to use the minimax algorithm to evaluate non-leaf nodes in a Tic-Tac-Toe game tree. The maximizing player ("X") aims to maximize the board's value, while the minimizing player ("O") tries to minimize it. At the leaf nodes, we evaluate the game outcomes (win = 1, tie = 0, loss = -1). The values are then propagated up the tree, with each non-leaf node's value depending on whether it's the maximizing or minimizing player's turn. The optimal move is chosen based on the highest value for "X" and the lowest value for "O."
+
+# Copying Boards.py
+In this code, we first created a reference to my_board by assigning new_board = my_board, meaning both variables pointed to the same board. Modifying new_board also affected my_board. Then, we used deepcopy(my_board) to create an independent copy of my_board for new_board. After making a move on new_board, we observed that my_board remained unchanged, demonstrating that deepcopy() creates a separate copy, so changes to new_board don't affect my_board.
+
+# Minimax.py
+In this code, we defined the minimax() function to evaluate possible moves for a Tic-Tac-Toe game. We loop through all available moves, create a deep copy of the current board for each move, and apply the move using select_space(). The symbol used for the move is based on whether the player is maximizing ("X") or minimizing ("O"). After making the move, we return the new board. The function is called with x_winning as the input board and the maximizing player (True).
