@@ -1,4 +1,4 @@
-# 📘 Generative AI in Action — My Learnings & Notes
+# Generative AI in Action — My Learnings & Notes
 
 This repository captures **my personal understanding and implementation insights** from the book  
 **"Generative AI in Action" (Anaconda Sponsored | Manning Publications)**.  
@@ -8,7 +8,7 @@ I created this as part of my learning journey to deepen my understanding of Gene
 
 ---
 
-## 🧩 PART 1 — Foundations of Generative AI
+## PART 1 — Foundations of Generative AI
 
 ### 1️⃣ Introduction to Generative AI
 Understanding what Generative AI is, its capabilities, use cases, limitations, and how it differs from traditional AI.
@@ -27,7 +27,7 @@ Extending GenAI to code, music, video, and other creative domains with tools lik
 
 ---
 
-## 🧠 PART 2 — Advanced Techniques and Applications
+## PART 2 — Advanced Techniques and Applications
 
 ### 6️⃣ Guide to Prompt Engineering
 Key principles, strategies, and best practices for crafting effective prompts across text and image generation.
@@ -43,7 +43,7 @@ Understanding fine-tuning workflows, LoRA techniques, RLHF, and model customizat
 
 ---
 
-## ⚙️ PART 3 — Deployment and Ethical Considerations
+## PART 3 — Deployment and Ethical Considerations
 
 ### 🔟 Application Architecture for Generative AI Apps
 Designing scalable GenAI systems — understanding the orchestration, grounding, and model layers in production environments.
@@ -57,12 +57,6 @@ Learning about traditional and LLM-based evaluation metrics like BLEU, ROUGE, BE
 ### 13️⃣ Guide to Ethical GenAI
 Addressing bias, safety, transparency, and responsible AI development — with frameworks for red-teaming and content moderation.
 
----
-
-## 🧰 Additional Resources
-- Appendix A: The book’s GitHub repository  
-- Appendix B: Responsible AI tools and frameworks  
-- References and supporting materials
 
 ---
 
