@@ -74,5 +74,6 @@ Feel free to explore, learn, and contribute if something resonates with you.
 
 ---
 
+<p align="center">&copy; 2025 Venkata Sri Deepthi SriKotaPeetambaram |Gen AI in Action Repository</p>
 
 
