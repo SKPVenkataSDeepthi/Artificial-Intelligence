@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-## ![Background](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg2dXU3NGkwb3lrODBuNmFjcTczdDQ0MjZvajJuMDhtbzAzYTJhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/AtemeKRsPRVESJ8zRq/giphy.gif)
+## ![Background](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tjeTd0czVxMGZhYjZ6YWtqYXg2em0zaHJ2Zm8wamZheHpodXB6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/AtemeKRsPRVESJ8zRq/giphy.gif)
 ---
 
 Welcome to my Artificial Intelligence Repository! This repository serves as a collection of resources, notes, and projects from various AI and machine learning courses I am currently studying. The aim is to document my learning journey, with links to foundational courses, hands-on projects, and open-source AI tools.
